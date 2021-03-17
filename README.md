@@ -1,3 +1,3 @@
 # datepicker_app
 
-Implementation of datepicker from a calender
+Implementation of date picker from a calenda and displaying the date picked
